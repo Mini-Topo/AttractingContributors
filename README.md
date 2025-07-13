@@ -18,4 +18,5 @@
 - tofu
 - eggplant
 - wakame
+- fried tofu \ 油揚げ
 
